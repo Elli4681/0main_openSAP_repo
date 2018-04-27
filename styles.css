@@ -1,5 +1,9 @@
 h1 {
 	color: blue;
+<<<<<<< Upstream, based on master
+=======
+	text-align: left;
+>>>>>>> bcc1889 added left alignment to first header
 }
 h2 {
 	color: red;
